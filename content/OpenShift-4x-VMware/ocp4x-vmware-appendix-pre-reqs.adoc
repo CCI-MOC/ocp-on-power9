@@ -1,0 +1,9 @@
+
+The following services are pre-requisites for OpenShift {ocp_version} installation on vSphere (https://docs.openshift.com/container-platform/{ocp_version}/installing/installing_vsphere/installing-vsphere.html#installation-infrastructure-user-infra_installing-vsphere[see more on the official docs for OpenShift]) :
+
+- DHCP
+- DNS
+- Load Balancer
+- Webserver (to host bootstrap ignition file)
+- vSphere 6.7U2
+
