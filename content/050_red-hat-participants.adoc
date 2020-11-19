@@ -16,24 +16,59 @@ was actively involved (i.e. attending status calls, escalations etc...)
 |E-mail address
 
 // Name
-| #TODO#
+| Etay Nir
 // Role
 | Project Manager
 // Email Address
-| #TODO#
+| etnir@redhat.com
 
 // Name
-| #TODO#
-// Role
-| Architect
-// Email Address
-| #TODO#
-
-// Name
-| #TODO#
+| Yonatan Golick
 // Role
 | Consultant
 // Email Address
-| #TODO#
+| yonatangolick@rubicone.co.il
+
+// Name
+| Nir Levy
+// Role
+| Consultant
+// Email Address
+| nirlevy@rubicone.co.il
+
+// Name
+| Raz Maabari
+// Role
+| Consultant
+// Email Address
+| razmaabari@rubicone.co.il
+
+// Name
+| Aexander Knobel
+// Role
+| Consultant
+// Email Address
+| aknobel@redhat.com
+
+// Name
+| Dan Arlowski
+// Role
+| Consultant
+// Email Address
+| darlowsk@redhat.com
+
+// Name
+| Ilana Polonsky
+// Role
+| Consultant
+// Email Address
+| ipolonsk@redhat.com
+
+// Name
+| Idan Levi
+// Role
+| Team Manager
+// Email Address
+| ilevi@redhat.com
 
 |===
