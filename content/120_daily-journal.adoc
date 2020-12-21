@@ -92,16 +92,20 @@ a|
 |Blockers
 
 // Date
-| MM/DD/YYYY
+| 12/17/2020
 
 // Activities
 a|
-- #TODO#
-- #TODO#
+- Managed establishing connection to "bu-21-7" node "Petitboot" bootloader.
+- Received RHCOS & RHEL PPC images.
+- Tried provisioning RHEL & RHCOS OS via a TFTP server we created which been uploaded with the RHEL & RHCOS Images.
+- Manually configuring the BMC node IP to the subnet on the Foreman server
 
-// Blockers
+// Blockers/Next Plan
 a|
-- #TODO#
-- #TODO#
+- Tried provisioning either one of the mentioned images through the Petitboot URL option - this did not succeed
+- Tried to install RHCOS with Naved, once by using the Formen web UI and second by running a python server publishing the relevant files from the iso image - this did not scceed
+- The node is trying to complete a DHCP request on port 67 on the Foreman
+- Naved states that DHCP should be served from the Foreman service and we should look into it.
 
 |===
