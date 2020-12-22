@@ -52,7 +52,7 @@ Sample
 |===
 |Date
 |Activities
-|Blockers
+|Blockers/Next Plan
 
 // Date
 | 06/05/2021
@@ -89,7 +89,7 @@ a|
 |===
 |Date
 |Activities
-|Blockers
+|Blockers/Next Plan
 
 // Date
 | 12/17/2020
@@ -107,5 +107,9 @@ a|
 - Tried to install RHCOS with Naved, once by using the Formen web UI and second by running a python server publishing the relevant files from the iso image - this did not scceed
 - The node is trying to complete a DHCP request on port 67 on the Foreman
 - Naved states that DHCP should be served from the Foreman service and we should look into it.
+
+
+
+
 
 |===
