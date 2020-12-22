@@ -108,7 +108,7 @@ a|
 - The node is trying to complete a DHCP request on port 67 on the Foreman
 - Naved states that DHCP should be served from the Foreman service and we should look into it.
 
-
+Just an examples
 
 
 
