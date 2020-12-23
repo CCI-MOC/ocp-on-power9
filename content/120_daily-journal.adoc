@@ -109,14 +109,25 @@ a|
 - Naved states that DHCP should be served from the Foreman service and we should look into it.
 
 // Date
-| 22/17/2020
+| 22/12/2020
 
 // Activities
 a|
-- Provisioned RHEL 8.3 on the node bu-21-7 but with an Livecd
+- Provisioned RHEL 8.3 on the node bu-21-7 but with a Livecd
 
 // Blockers/Next Plan
 a|
 - Trying to find a way to install the OS on the kernel.
+
+// Date
+| 23/12/2020
+
+// Activities
+a|
+- Configured how to install the OS on the kernel.
+
+// Blockers/Next Plan
+a|
+- Waiting for tomorrows meeting to discuss our next steps
 
 |===
