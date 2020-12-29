@@ -130,4 +130,14 @@ a|
 a|
 - Waiting for tomorrows meeting to discuss our next steps
 
+// Date
+| 29/12/2020
+
+// Activities
+a|
+- Managed to create a DNS server in a container on the foreman server
+
+// Blockers/Next Plan
+a|
+- The 2 remaining nodes networks are not configured right, waiting for Naveds assistance
 |===
