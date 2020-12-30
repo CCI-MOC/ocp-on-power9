@@ -117,14 +117,14 @@ a|
 
 // Blockers/Next Plan
 a|
-- Trying to find a way to install the OS on the kernel.
+- Trying to find a way to install the OS on the disk.
 
 // Date
 | 23/12/2020
 
 // Activities
 a|
-- Configured how to install the OS on the kernel.
+- Configured how to install the OS on the disk.
 
 // Blockers/Next Plan
 a|
