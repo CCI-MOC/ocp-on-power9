@@ -140,4 +140,17 @@ a|
 // Blockers/Next Plan
 a|
 - The 2 remaining nodes networks are not configured right, waiting for Naveds assistance
+
+// Date
+| 6/1/2021
+
+// Activities
+a|
+- Tried to provision RHEL again on the bu-21-7 node.
+
+// Blockers/Next Plan
+a|
+- It looks like on the last try of provisioning RHCOS we messed up the something with the disk, opened an issue to Naved and waiting for his update.
+- The 2 remaining nodes networks are not configured right, waiting for Naveds assistance.
+
 |===
