@@ -153,4 +153,15 @@ a|
 - It looks like on the last try of provisioning RHCOS we messed up the something with the disk, opened an issue to Naved and waiting for his update.
 - The 2 remaining nodes networks are not configured right, waiting for Naveds assistance.
 
+// Date
+| 12/1/2021
+
+// Activities
+a|
+- Succesfully provisioned RHEL OS on the bu-21-7 node.
+
+// Blockers/Next Plan
+a|
+- It seems like the foreman server is powered qoff opened an issue for Naved to turn it back on.
+- The 2 remaining nodes networks are not configured right, waiting for Naveds assistance.
 |===
