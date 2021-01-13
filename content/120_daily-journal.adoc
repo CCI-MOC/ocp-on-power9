@@ -164,4 +164,15 @@ a|
 a|
 - It seems like the foreman server is powered qoff opened an issue for Naved to turn it back on.
 - The 2 remaining nodes networks are not configured right, waiting for Naveds assistance.
+
+// Date
+| 13/1/2021
+
+// Activities
+a|
+- Succesfully an automated provisioning of RHEL OS on the bu-21-7 node.
+
+// Blockers/Next Plan
+a|
+- The 2 remaining nodes networks are not configured right, waiting for Naveds assistance.
 |===
