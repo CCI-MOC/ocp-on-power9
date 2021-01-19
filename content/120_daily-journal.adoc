@@ -175,4 +175,18 @@ a|
 // Blockers/Next Plan
 a|
 - The 2 remaining nodes networks are not configured right, waiting for Naveds assistance.
+
+// Date
+| 19/1/2021
+
+// Activities
+a|
+- Naved solved the network issue on the 2 nodes.
+- Started working on installing OCP4 on the nodes:
+    - Step 1 - Managed to create a private registry on the foreman server.
+
+// Blockers/Next Plan
+a|
+- Cant connect from the RHEL installer to the registry, looking for a solution.
+- Need to write a wiki about the Automated provisioning of RHEL OS.
 |===
