@@ -189,4 +189,16 @@ a|
 a|
 - Cant connect from the RHEL installer to the registry, looking for a solution.
 - Need to write a wiki about the Automated provisioning of RHEL OS.
+
+// Date
+| 20/1/2021
+
+// Activities
+a|
+- Solved connection problem from the RHEL installer to the registry.
+- Added to the wiki the Automated provisioning of RHEL OS.
+
+// Blockers/Next Plan
+a|
+- Continuing with the Installing a cluster on IBM Power Systems in a restricted network guide
 |===
