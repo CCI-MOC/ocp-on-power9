@@ -201,4 +201,16 @@ a|
 // Blockers/Next Plan
 a|
 - Continuing with the Installing a cluster on IBM Power Systems in a restricted network guide
+
+// Date
+| 21/1/2021
+
+// Activities
+a|
+- Created a private registry on the foreman server from scratch to document the process.
+- Added a wiki on - Full procedure for creating a registry
+
+// Blockers/Next Plan
+a|
+- Continuing with the Installing a cluster on IBM Power Systems in a restricted network guide
 |===
