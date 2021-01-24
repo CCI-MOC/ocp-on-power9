@@ -213,4 +213,15 @@ a|
 // Blockers/Next Plan
 a|
 - Continuing with the Installing a cluster on IBM Power Systems in a restricted network guide
+
+// Date
+| 24/1/2021
+
+// Activities
+a|
+- Woking on configuring the DNS records, encountered some issues
+
+// Blockers/Next Plan
+a|
+- If tomorrow wont go as planned will ask for guidance from the MOC team
 |===
