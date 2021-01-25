@@ -224,4 +224,17 @@ a|
 // Blockers/Next Plan
 a|
 - If tomorrow wont go as planned will ask for guidance from the MOC team
+
+// Date
+| 24/1/2021
+
+// Activities
+a|
+- Configured the DNS records and verified that the DNS is working. Not sure if not missing records or maybe didnt configure them right.
+- Started working on the installation itself, had some progress with the install-config file and the ignition files.
+- Started installing RHCOS on the 2 nodes (bootstrap, master).  
+
+// Blockers/Next Plan
+a|
+- One of the nodes restarted and now I'm unable to reach the BMC web interface to restart the node. Opened an issue for Naved. 
 |===
