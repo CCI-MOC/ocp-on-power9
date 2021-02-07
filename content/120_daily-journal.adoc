@@ -237,4 +237,15 @@ a|
 // Blockers/Next Plan
 a|
 - One of the nodes restarted and now I'm unable to reach the BMC web interface to restart the node. Opened an issue for Naved. 
+
+// Date
+| 7/2/2021
+
+// Activities
+a|
+- Succesfully updated the nodes firmware.
+
+// Blockers/Next Plan
+a|
+- Working on installing RHCOS on the nodes. 
 |===
