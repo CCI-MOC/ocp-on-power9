@@ -248,4 +248,15 @@ a|
 // Blockers/Next Plan
 a|
 - Working on installing RHCOS on the nodes. 
+
+// Date
+| 14/2/2021
+
+// Activities
+a|
+- Managed to make the bootstrap server to address the right registry.
+
+// Blockers/Next Plan
+a|
+- Having an issue with the certificate of the registry.
 |===
