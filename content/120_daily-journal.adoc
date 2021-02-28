@@ -259,4 +259,16 @@ a|
 // Blockers/Next Plan
 a|
 - Having an issue with the certificate of the registry.
+
+// Date
+| 14/2/2021
+
+// Activities
+a|
+- Overcame the certificate issue on the bootstrap server.
+- Been able to provision CoreOS on the master node.  
+
+// Blockers/Next Plan
+a|
+- Corrently unable to connect to the BMC servers to manage the nodes, opened an issue to Naved to take a look at this.
 |===
